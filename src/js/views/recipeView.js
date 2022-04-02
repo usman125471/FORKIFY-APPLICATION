@@ -1,4 +1,4 @@
-import { Fraction } from 'fractional';
+import { Fraction } from 'Fraction';
 import icons from 'url:../../img/icons.svg';
 import View from './view';
 // console.log(icons);
