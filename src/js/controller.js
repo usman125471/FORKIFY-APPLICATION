@@ -17,6 +17,8 @@ if (module.hot) {
 //---\\ FORKIFY APPLICATION //---\\
 // console.log(`Hi Usman`);
 
+console.log(`welcome to Application`);
+
 const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
